@@ -1,5 +1,7 @@
 ## Project URL: https://devpost.com/software/workflow-jy1fiq
 
+![Overview of WorkFlow](original.png)
+
 ## What it does
 WorkFlow performs activities as depicted in a hand-drawn flowchart by the user. It lets the user write the tasks that he desires to perform in the form of a flowchart and scan it in front of his/her computer camera. Based on the flowchart symbols used in the diagram, WorkFlow identifies the desired tasks and commands the system to perform them in order. From opening a webpage, listening to songs on YouTube to sending emails to recipients and updating your Task list, WorkFlow can take care of them all.
 
