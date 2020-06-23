@@ -19,4 +19,7 @@ Use of various Google Cloud API's to implement different ideas.
 [ ] Introduce 'Conditional' statements into WorkFlow ('Diamond' symbol in flowcharts)
 [ ] Using Machine Learning algorithms to increase the accuracy of predicting the commands in the flowchart.
 [ ] Integrating and Implementing various functionalities that will enable the user to automate complex tasks.
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 [ ] Using WorkFlow as an IoT application for implementing and executing workflows at remote locations.
